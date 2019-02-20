@@ -1,0 +1,22 @@
+sjc-ads-8637
+cd /nobackup/gopalk2/test-ws
+
+acme config_check -checks credential_info:ark
+
+setenv PATH "/router/bin:/usr/atria/bin:/usr/cisco/bin:/usr/cisco/etc:/users/gopalk2/bin:/bin:/usr/X11R6/bin:/usr/sbin:/sbin:/usr/bin:/usr/cisco/bin:.:/usr/local/ddts/bin:/usr/local/bin:/usr/ccs/bin:/usr/ucb:/auto/mssbu-swtools/iox/bin:/auto/iox/bin:/auto/mssbu-swtools/bin:/nfs/qddts/bin"
+vi ~/.bashrc
+export PATH = $PATH;....
+source ~/.bashrc
+
+https://wwwin-sfo.cisco.com/cgi/main.cgi
+
+xr-build-ops
+
+pims-web.cisco.com/
+
+https://wiki.cisco.com/display/XROPS/XR+Release+Ops+--+IOS-XR
+
+http://eman-core.cisco.com/SERVICE/OnRamp/
+
+
+INC1278975
